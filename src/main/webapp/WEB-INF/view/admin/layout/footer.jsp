@@ -8,6 +8,8 @@
                 <a href="#" target="_blank">Website</a>
                 &middot;
                 <a href="#" target="_blank">Youtube channel</a>
+
+                
             </div>
         </div>
     </div>
